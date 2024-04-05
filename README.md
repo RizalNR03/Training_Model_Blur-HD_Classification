@@ -1,1 +1,1 @@
-# Training_Model_Blur-HD_Classification
+# Training_Model_Blur&HD_Classification
